@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hansen App</string>
+    <string name="nomeApp">HansenApp</string>
+    <string name="todo">TODO</string>
+    <string name="textoInicial">Seja bem vindo ao aplicativo Hanseniase. Ele vai ajudar você no auto diagnóstico sobre a doença e procurar uma melhor ajuda.</string>
+    <string name="btIniciar">Iniciar</string>
+</resources>
