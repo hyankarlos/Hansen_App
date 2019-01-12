@@ -4,4 +4,5 @@
     <string name="todo">TODO</string>
     <string name="textoInicial">Seja bem vindo ao aplicativo Hanseniase. Ele vai ajudar você no auto diagnóstico sobre a doença e procurar uma melhor ajuda.</string>
     <string name="btIniciar">Iniciar</string>
+    <string name="tvAcivityMain">Dentre as opções abaixo, escolha aquela que mais se aproxima dos sintômas que você sente no momento.</string>
 </resources>
